@@ -1,0 +1,21 @@
+body{
+
+  background-color: powderblue;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 450px 250px;
+
+}
+hr{
+
+  border-style: dotted none none;
+  background-color: powderblue;
+  height:0px;
+  border-width: 5px;
+
+
+  width:10%;
+
+  border-color: black;
+}
